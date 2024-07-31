@@ -8,7 +8,7 @@
 <body>
     <h1>
         <?php 
-         print "Ola mundo!";
+         print "Ola mundo \u{1F30E} !";
         ?>
     </h1>
     <p>Meu primeiro cod em PHP</p>
