@@ -8,7 +8,7 @@
 <body>
     <h1>
         <?php 
-         echo "Ola mundo";
+         echo "Ola mundo de Gabriel";
         ?>
     </h1>
     <p>Meu primeiro cod em PHP</p>
